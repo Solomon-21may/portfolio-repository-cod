@@ -517,3 +517,7 @@ color: var(--text-black-900);
     text-align: justify;
     color: var(--text-black-700);
 }
+.service .service-item
+{
+margin-bottom: 30px;
+}
